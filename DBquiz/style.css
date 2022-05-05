@@ -1,0 +1,50 @@
+#logo {
+    /*display: inline-block;*/
+   float: left;
+}
+#titre {
+    display: inline-block;
+    font-size: 90px;
+    margin:0px;
+    padding-top:50px;
+    width: 600px;
+    height: 200px;
+}
+#body {
+    width: 900px;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+.footer { 
+    display: inline-block;
+    clear: left;
+}
+.pub {
+    float: left;
+    height: 500px;
+    width: 100px;
+    border: solid black;
+}
+#section {
+    display: inline-block;
+    padding-left: 60px;
+}
+ul {
+    margin: 0;
+    display: inline-block;
+}
+#liste{
+    list-style-type: none;
+    padding:10px;
+    margin: 10px;
+    text-align: center;
+    border: solid black;
+}
+footer {
+    clear: both;
+    text-align: center;
+    padding-top: 20px;
+}
+#info {
+    display: block;
+}
